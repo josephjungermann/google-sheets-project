@@ -1,4 +1,62 @@
-# Google Sheets Project Pitch:
+# Commuter-Adjusted Population and Revenue Analysis of LIRR Babylon Branch Routes to Manhattan
+
+### Write your nutgraf here:
+
+A large number of Long Islanders commute daily to Penn Station through Long Island Rail Road's Babylon branch line, effectively inflating Manhattan's daytime population while decreasing Nassau and Suffolk totals.
+
+This phenomenon called "commuter-adjusted population," which the Census Bureau defines as "the number of people who are present in an area during normal business hours, is depicted through a snapshot of the Babylon line's ridership totals."
+
+Make sure your pitch answers the following questions:
+
+-   Why this story is relevant ("So what?) and why now?
+-   What is the single question your story tries to answer?
+-   Why will this story resonate with your audience?
+
+What else has been done on this topic (provide links)? How is your angle different or fresh?
+
+-   [The Most Important Population Statistic That Hardly Ever Gets Talked About (City Lab)](https://www.citylab.com/transportation/2013/05/most-important-population-statistic-hardly-ever-gets-talked-about/5747/)
+
+_My angle is different because it localizes the coverage to just Long Island and Manhattan, and uses LIRR to prove this concept of "commuter-adjusted population."_
+
+Describe how and where you found the data with links. Put the raw data (csv, xls, pdf) in a folder called `data` in this folder, and provide a [link](https://docs.google.com/spreadsheets/d/1dI0xHC3VNH6uBt3lnpEtev1Bb2y3sxReiyiDn9MWzNI/edit?usp=sharing) to your Google Sheet. Show your data work in this Google Sheet – this could be sorting, aggregating, filtering, pivot tables, vlookups, etc.
+
+Write up at least one or up to three findings from your analysis based on the data you found.
+
+-   _See index.html for findings._
+
+Who are some potential human sources you could reach out to for more info?
+
+_Would have been helpful to reach out to MTA workers and experts who collect and process data for the MTA, LIRR and Babylon branch specifically. Also would be great to reach out to daily riders of the LIRR to add context and color to the story._
+
+.
+.
+.
+
+# Google Sheets Project Pitch (NEW PITCH):
+
+## Hede: Commuter-Adjusted Population and Revenue Analysis of LIRR Babylon Branch Routes to Manhattan
+
+### A summary of your idea or hypothesis, which explains why it is newsworthy:
+
+A large number of Long Islanders commute daily to Penn Station through Long Island Rail Road’s Babylon branch line, effectively inflating Manhattan’s daytime population while decreasing Nassau and Suffolk totals.
+
+This phenomenon is called “commuter-adjusted population,” and it gives us a good idea of the worker population that LI contributes to the city. We'll look at this data through the ridership totals of Long Island Rail Road's Babylon Branch for the 2019 general ledger year.
+
+### Links to data sources:
+
+-   [Data.NY.gov LIRR Route Map](https://data.ny.gov/Transportation/Long-Island-Railroad-Map/jbqr-kiev)
+
+### Example(s) of a publication you could pitch your idea or project to:
+
+-   [Newsday.com](https://www.newsday.com/)
+-   [NextLI](https://next.newsday.com/)
+
+.
+.
+.
+.
+
+# Google Sheets Project Pitch (OLD PITCH):
 
 ## Hede: Is New York’s Bail Reform Really Leading to an Increase in Crimes?
 
