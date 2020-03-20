@@ -18,7 +18,10 @@ What else has been done on this topic (provide links)? How is your angle differe
 
 _My angle is different because it localizes the coverage to just Long Island and Manhattan, and uses LIRR to prove this concept of "commuter-adjusted population."_
 
-Describe how and where you found the data with links. Put the raw data (csv, xls, pdf) in a folder called `data` in this folder, and provide a [link](https://docs.google.com/spreadsheets/d/1dI0xHC3VNH6uBt3lnpEtev1Bb2y3sxReiyiDn9MWzNI/edit?usp=sharing) to your Google Sheet. Show your data work in this Google Sheet – this could be sorting, aggregating, filtering, pivot tables, vlookups, etc.
+Describe how and where you found the data with links. Put the raw data (csv, xls, pdf) in a folder called `data` in this folder, and provide a link to your Google Sheet. Show your data work in this Google Sheet – this could be sorting, aggregating, filtering, pivot tables, vlookups, etc.
+
+-   [Google Sheets 2019 LIRR Babylon Branch](https://docs.google.com/spreadsheets/d/1dI0xHC3VNH6uBt3lnpEtev1Bb2y3sxReiyiDn9MWzNI/edit?usp=sharing)
+-   [Google Sheets Commuter-Residence Adjusted  Population Change due to Population](https://docs.google.com/spreadsheets/d/114OL99FBIAwgyxppwk5H9rVu5Gx6ORwwBse0mpH-r_E/edit?usp=sharing)
 
 Write up at least one or up to three findings from your analysis based on the data you found.
 
@@ -27,6 +30,10 @@ Write up at least one or up to three findings from your analysis based on the da
 Who are some potential human sources you could reach out to for more info?
 
 _Would have been helpful to reach out to MTA workers and experts who collect and process data for the MTA, LIRR and Babylon branch specifically. Also would be great to reach out to daily riders of the LIRR to add context and color to the story._
+
+Additional Sources:
+
+-   [Census.gov/acs](https://www.census.gov/content/dam/Census/library/working-papers/2013/acs/2013_McKenzie_02.pdf)
 
 .
 .
